@@ -1,0 +1,33 @@
+{
+"dev":{"login":"https://test-login.totorotec.com",
+"channel":"YOUYOU",
+"kefu":"YOUYOU",
+"sharelink":"https://aoodbm.mlinks.cc/A0g0",
+"hotupdate":"",
+"download_url":"",
+"client_url":"",
+"version":"2.5.0"},
+
+"test": {
+	"login": "http://39.108.130.181:9000",
+	"channel": "TOTORO",
+	"kefu": "CblackoutC",
+	"yxName": "5LyY5ri46bq75bCG",
+	"sharelink": "https://aoodbm.mlinks.cc/AKIz",
+	"hotupdate": "",
+	"download_url": "https://www.fir.im/17ew",
+	"client_url": "",
+	"version": "1.0.5"
+},
+
+
+"prod":{"login":"http://120.79.86.132:9000",
+"channel":"YOUYOU",
+"kefu":"CblackoutC",
+"yxName":"5LyY5ri45aix5LmQ5a6k",
+"sharelink":"https://aoodbm.mlinks.cc/A0g0",
+"hotupdate":"http://assets.totorotec.com:8080/AMYYQPtest/",
+"download_url":"http://assets.totorotec.com:8080/AMYYQPtest/share.html",
+"client_url":"http://assets.totorotec.com/web-mobile/index.html",
+"version":"2.5.0"}
+}
